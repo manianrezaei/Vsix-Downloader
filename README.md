@@ -50,7 +50,7 @@ python download.py
 پس از دانلود فایل `.vsix`، کافیست دستور زیر را اجرا کنید:
 
 ```bash
-code --install-extension aider.vsix
+code --install-extension extensionName.vsix
 ```
 
 ---
